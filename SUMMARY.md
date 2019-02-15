@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [첫화면](README.md)
 
