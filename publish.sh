@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -R docs
+
 # gitbook 의존 파일을 설치하고 gitbook 빌드를 돌린다.
 gitbook install && gitbook build
 
