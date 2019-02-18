@@ -2,9 +2,11 @@
 gitbook install && gitbook build
 
 # github pages가 바라보는 gh-pages 브랜치를 만든다.
+echo "**************** gh-pages checkout ****************"
 git checkout gh-pages
 
 # 최신 gh-pages 브랜치 정보를 가져와 rebase를 진행한다.
+echo "**************** gh-pages rebase ****************"
 git pull origin gh-pages --rebase
 
 # gitbook build로 생긴 _book폴더 아래 모든 정보를 현재 위치로 가져온다.
