@@ -18,8 +18,20 @@
 |  | 40 Light Blue | Spiral Needle has 2 barbs a side and a twist in the needle to spread the barbs around the needle | 부드러운 작업 및 마무리 | Heidifeathers (ebay) |  | |  |
 |  | 36 Purple | piral Needle has 2 barbs a side and a twist in the needle to spread the barbs around the needle | 부드러운 작업 및 마무리 | Heidifeathers (ebay) |  | | |
 
+x3?
 46게이지 화이트 타입도 있다는데?
 
 
 
 1000원
+
+- 펠트하우스 전문가용 x5 2500?
+- 펠트하우스 리필용 x5
+- 중국산 7구 $8.99 + 배대지 17.10.17
+- Clover Felting Needle Tool 5구 $11.71 + 배대지 17.10.04
+QICI 65 Pieces Wool Felt Tools $9.99+ 배대지 17.10.04
+SMALL SIZE(7.9cm); MEDIUM SIZE(8.6cm); BIG SIZE(9.1cm)
+- Clover 8907 Speed needle Refill size 40 /2 per package 7.25 + 배대지 17.10.04
+- 하마나카 2구 홀더 태양이네(오프) 9천?
+- 하마나카 1구 홀더 태양이네(온)
+- 클로바 2구 펠트하우스(오프) ?
