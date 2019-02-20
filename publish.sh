@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf docs
+mkdir docs
 # gitbook 의존 파일을 설치하고 gitbook 빌드를 돌린다.
 gitbook install && gitbook build
 
@@ -15,6 +17,8 @@ cp -R _book/* ./docs
 # node_modules폴더와 _book폴더를 지워준다.
 git clean -fx node_modules
 git clean -fx _book
+
+rm ./docs/publish.sh
 
 # NOQA
 git add .
