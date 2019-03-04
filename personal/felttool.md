@@ -38,3 +38,9 @@ SMALL SIZE(7.9cm); MEDIUM SIZE(8.6cm); BIG SIZE(9.1cm)
 - 아마존  하마나카 테크노로드 4000
 
 - 아마존  하마나카 펠팅 니들그립 1구 7928
+
+이베이 
+ - Heidifeathers® 홀더 3종 19,846
+ - Heidifeathers® 바늘 블루x10 7,840
+ - Heidifeathers® 바늘 골드x10 7,840
+ - Heidifeathers® 바늘 오렌지x10 7,840

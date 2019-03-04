@@ -129,3 +129,24 @@
 |  |  Amazon.jp (직) | 하마나카 소노모노 루프 - 그레이 | 2019.02.26 | 7308 | 40g | 183 | &nbsp; |
 |  |  Amazon.jp (직) | 하마나카 식모 스트레이트 - 화이트 | 2019.02.26 | 7,928 | 40g | 198 | &nbsp; |
 |  |  Amazon.jp (직) | 하마나카 식모 스트레이트 - 살구 | 2019.02.26 | 7,928 | 40g | 198 | &nbsp; |
+
+
+
+|  | World of Wool (직) | 코리데일 | 25-30mic | Pumpkin | 2019.02.28 | 5,428 | 100g | 54.3 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Buttercup | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Dream	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Royal	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Cornflower	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Mint	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Teal	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Aqua	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Conifer	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Sage	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Ruby	 | 2019.02.28 | 6,902 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Lavender	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+
+|  | World of Wool (직) | 코리데일 | 25-30mic | Petrol	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Rose	 | 2019.02.28 | 6,902 | 100g | 61.2 | &nbsp; |
+|  | World of Wool (직) | 코리데일 | 25-30mic | Amethyst	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
+|  | Heidifeathers (직) | 코리데일 | ? | Natural White Carded Sliver | 2019.02.20 | 19,846 | 300g | 66.2 | &nbsp; |
+|  | Heidifeathers (직) | 메리노 | ? | Organic White | 2019.02.20 | 28,852 | 500g | 57.7 | &nbsp; |
