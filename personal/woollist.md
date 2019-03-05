@@ -144,7 +144,6 @@
 |  | World of Wool (직) | 코리데일 | 25-30mic | Sage	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
 |  | World of Wool (직) | 코리데일 | 25-30mic | Ruby	 | 2019.02.28 | 6,902 | 100g | 61.2 | &nbsp; |
 |  | World of Wool (직) | 코리데일 | 25-30mic | Lavender	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
-
 |  | World of Wool (직) | 코리데일 | 25-30mic | Petrol	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
 |  | World of Wool (직) | 코리데일 | 25-30mic | Rose	 | 2019.02.28 | 6,902 | 100g | 61.2 | &nbsp; |
 |  | World of Wool (직) | 코리데일 | 25-30mic | Amethyst	 | 2019.02.28 | 6,119 | 100g | 61.2 | &nbsp; |
