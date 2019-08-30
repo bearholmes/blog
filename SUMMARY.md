@@ -1,6 +1,5 @@
 # Summary
 
-- [첫화면](readme.md)
 - 양모펠트
   - [양모공부](felt/woolsummary.md)
 - [개인용품](personal/personal.md)
