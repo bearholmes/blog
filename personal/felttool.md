@@ -18,7 +18,8 @@
 |  | 38 Black | Star 타입 (측면당 2개 미늘)| 빠른 작업/성형 | Heidifeathers (ebay) | 
 |  | 40 Light Blue | Spiral Needle has 2 barbs a side and a twist in the needle to spread the barbs around the needle | 부드러운 작업 및 마무리 | Heidifeathers (ebay) |  
 |  | 36 Purple | piral Needle has 2 barbs a side and a twist in the needle to spread the barbs around the needle | 부드러운 작업 및 마무리 | Heidifeathers (ebay) | 
-| | 40 Speed (8907) | | 빠른 기초/성형 | Clover |
+| | 40 Speed (blue) | 6 (측면당 3개 미늘) | 빠른 기초/성형 | Clover |
+| | 40 Regular (none) | 6 (측면당 3개 미늘) | 기본 작업 | Clover |
 
 x3?
 46게이지 화이트 타입도 있다는데?
@@ -47,6 +48,7 @@ x3?
 - 하마나카 2구 홀더 태양이네(오프) 9천
 - 클로바 1구 홀더 태양이네(온) 8500
 - 클로바 3구 펠트하우스(오프) ?1.9천
+- 클로바 레귤러 바늘 5본 쿠팡
 
 
 아마존 미국
